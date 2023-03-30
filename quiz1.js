@@ -41,13 +41,13 @@ let data = ["benr", 3532, true]
 let messages = [
     {
         name: "usr1",
-        dae: "1/4/2023",
+        date: "1/4/2023",
         msg: "good video",
         like: 1000
     },
     {
         name: "usr2",
-        dae: "1/2/2023",
+        date: "1/2/2023",
         msg: "good video",
         like: 3000
     },
